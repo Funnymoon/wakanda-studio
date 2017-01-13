@@ -3,7 +3,7 @@ name: Wakanda Studio
 author: Wakanda SAS
 url: http://wakanda.io
 version: 0.1
-repository: https://github.com/Wakanda/wakanda-studio
+repository: https://github.com/ssalibi/wakanda-studio
 branch: gh-pages
 encoding: utf-8
 theme: wakanda
